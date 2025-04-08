@@ -17,3 +17,5 @@
    ```bash
    git clone https://github.com/votre-utilisateur/RuneTrek-Adventures.git
 
+
+**SI LES PROBLEMES DE CHEMINEMENT PRECISTE PRENEZ LA VERSION AVEC LE DERNIER COMIT QUI DATE DU 23 FEVRIER**
